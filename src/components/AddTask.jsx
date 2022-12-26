@@ -1,6 +1,6 @@
 import React from 'react';
 
-const AddTask = ({newTask ,setNewTask,addTask }) => {
+const AddTask = ({ newTask, setNewTask, addTask }) => {
     return (
         <>
             <div className="row">
@@ -8,7 +8,7 @@ const AddTask = ({newTask ,setNewTask,addTask }) => {
                     <input
                         value={newTask}
                         onChange={(e) => setNewTask(e.target.value)}
-                        className="form-control form-control-lg"/>
+                        className="form-control form-control-lg" />
                 </div>
                 <div className="col-auto">
                     <button
@@ -18,7 +18,7 @@ const AddTask = ({newTask ,setNewTask,addTask }) => {
                     </button>
                 </div>
             </div>
-            <br/>
+            <br />
         </>
     );
 };
