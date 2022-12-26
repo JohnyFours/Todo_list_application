@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/http//johnyfours.github.io/Todo_list_application/static/css/main.742a438a.css",
-    "main.js": "/http//johnyfours.github.io/Todo_list_application/static/js/main.0c3068aa.js",
-    "index.html": "/http//johnyfours.github.io/Todo_list_application/index.html",
-    "main.742a438a.css.map": "/http//johnyfours.github.io/Todo_list_application/static/css/main.742a438a.css.map",
-    "main.0c3068aa.js.map": "/http//johnyfours.github.io/Todo_list_application/static/js/main.0c3068aa.js.map"
+    "main.css": "/Todo_list_application/static/css/main.742a438a.css",
+    "main.js": "/Todo_list_application/static/js/main.0c3068aa.js",
+    "index.html": "/Todo_list_application/index.html",
+    "main.742a438a.css.map": "/Todo_list_application/static/css/main.742a438a.css.map",
+    "main.0c3068aa.js.map": "/Todo_list_application/static/js/main.0c3068aa.js.map"
   },
   "entrypoints": [
     "static/css/main.742a438a.css",
